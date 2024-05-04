@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "tic-tac-toe",
+    "description": "Play a game of tic-tac-toe",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
